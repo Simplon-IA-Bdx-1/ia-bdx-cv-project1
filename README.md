@@ -1,11 +1,30 @@
 # Brief projet Zoo Galactique (classification d'images Kaggle)
 
+Le Computer Vision pré-existait avant le Deep Learning.
+Des techniques classiques de CV :
+
+* filtrage
+
+* détection de traits (bords, coins, objets)
+
+* segmentation
+
+Comparaison entre les techniques classiques de CV et le Deep Learning :
+[ici](https://towardsdatascience.com/deep-learning-vs-classical-machine-learning-9a42c6d48aa) et 
+[ici](https://zbigatron.com/has-deep-learning-superseded-traditional-computer-vision-techniques/)
+[ici](https://www.cs.swarthmore.edu/~meeden/cs81/f15/papers/Andy.pdf)
+
 
 Premier projet de Computer Vision, nous nous focaliserons sur la classification d'images qui est le problème le plus courant dans ce domaine.
 
 A lire en guise d'introduction pour avoir une idée des problématiques principales résolues par le CV :
 
 [5 computer vision techniques](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)
+
+Chercher des librairies Python dédiées à ces différentes tâches.
+
+Un article plus complet : [ici](https://medium.com/overture-ai/part-2-overview-of-computer-vision-methods-69c56843c567)
+
 
 ## Les datasets
 
