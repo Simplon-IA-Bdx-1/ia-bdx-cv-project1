@@ -116,4 +116,7 @@ Justification et rapide panorama des principales techniques
 
 Application au dataset Galaxy Zoo
 
+
 ## Récapitulatif des techniques utilisées et des résultats
+
+Pipeline gagnant du challenge Galaxy Zoo: [sur github](https://github.com/benanne/kaggle-galaxies/blob/master/doc/documentation.pdf)
